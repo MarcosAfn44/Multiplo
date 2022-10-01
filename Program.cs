@@ -2,10 +2,10 @@
 
 Console.WriteLine("-----Múltiplo-----");
 
-Console.WriteLine("Digite o primeiro número:");
+Console.WriteLine("Digite o primeiro número.........");
 n1 = Convert.ToInt32(Console.ReadLine());
 
-Console.WriteLine("Digite o segundo número:");
+Console.WriteLine("Avaliar se é múltiplo de...:");
 n2 = Convert.ToInt32(Console.ReadLine());
 
 resto = n1 % n2;
